@@ -1,2 +1,3 @@
-alert('Hello')
-totototo
+var mesages= "hello!"
+alert(messages)
+
